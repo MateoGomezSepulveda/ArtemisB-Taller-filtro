@@ -1,0 +1,91 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "imagen": "3.png",
+      "nombre": "Mateo Gomez Sepulveda",
+      "user": "MateoGomez",
+      "password": "123",
+      "email": "mateos@gmail.com"
+    },
+    {
+      "nombre": "asdasdas",
+      "user": "asdas",
+      "password": "1232131",
+      "email": "sadasdas",
+      "id": 2
+    },
+    {
+      "nombre": "dasdsa",
+      "user": "dasdas",
+      "password": "12312",
+      "email": "asdasdsa",
+      "id": 3
+    },
+    {
+      "nombre": "Mateo gomez sepulveda",
+      "user": "a123",
+      "password": "123",
+      "email": "sadasfasd",
+      "id": 4
+    },
+    {
+      "nombre": "Mateo gomez sepulveda",
+      "user": "sdad",
+      "password": "12321",
+      "email": "asdasf",
+      "id": 5
+    },
+    {
+      "nombre": "3123",
+      "user": "21312",
+      "password": "12312",
+      "email": "dasdas",
+      "id": 6
+    },
+    {
+      "nombre": "21312",
+      "user": "sadasda",
+      "password": "231312",
+      "email": "jejee",
+      "id": 7
+    },
+    {
+      "nombre": "dadsa",
+      "user": "12312",
+      "password": "3123123",
+      "email": "wddqjiji",
+      "id": 8
+    },
+    {
+      "nombre": "maria fernada",
+      "user": "mariaF",
+      "password": "12345",
+      "email": "mariafPENE@gmail.com",
+      "id": 9
+    },
+    {
+      "nombre": "santi",
+      "user": "santiii",
+      "password": "123456",
+      "email": "santiiejje@gmail.com",
+      "id": 10
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombreRegistro": "Mateo Gomez Sepulveda",
+      "user": "MateoGomez",
+      "password": "123",
+      "email": "mateos@gmail.com"
+    },
+    {
+      "nombre": "asdas",
+      "user": "dasdas",
+      "password": "12321",
+      "email": "sdasda",
+      "id": 2
+    }
+  ]
+}

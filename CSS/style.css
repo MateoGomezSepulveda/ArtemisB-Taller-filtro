@@ -1,0 +1,28 @@
+body{
+    background-image: url(/img/fondo.png);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.titulo1{
+    color: white;
+    padding-top: 30%;
+    padding-left: 10%;
+}
+
+.boton1{
+    width: 180%;
+    padding-left: 8%;
+    padding-top: 4%;
+}
+
+.btn{
+    width: 30%;
+    padding: 2%;
+}
+
+.boton2{
+    background-color: white;
+    width: 180%;
+}
